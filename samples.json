@@ -1,0 +1,99 @@
+{
+  "name": "Kahoyo AI examiner: scores on published IELTS Speaking samples",
+  "description": "Nine speaking samples with a band published by IELTS or by an examiner, each scored twice by the Kahoyo AI examiner. Independent check; not an official IELTS score.",
+  "url": "https://kahoyo.com/accuracy",
+  "table": "https://kahoyo.com/accuracy#samples",
+  "creator": "STARTAVO S.R.L. (Kahoyo)",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "dateModified": "2026-11-18",
+  "summary": {
+    "scores": 18,
+    "withinHalfBand": 17,
+    "averageGap": 0.33,
+    "worstGap": 1
+  },
+  "officialSource": "https://ielts.org/organisations/ielts-for-organisations/understanding-ielts-scoring/resources-for-setting-your-ielts-scores",
+  "samples": [
+    {
+      "id": 1,
+      "source": "IELTS official sample",
+      "sourceUrl": "https://ielts.org/organisations/ielts-for-organisations/understanding-ielts-scoring/resources-for-setting-your-ielts-scores",
+      "part": "Part 3",
+      "publishedBand": 5,
+      "kahoyoRun1": 6,
+      "kahoyoRun2": 5
+    },
+    {
+      "id": 2,
+      "source": "IELTS official sample",
+      "sourceUrl": "https://ielts.org/organisations/ielts-for-organisations/understanding-ielts-scoring/resources-for-setting-your-ielts-scores",
+      "part": "Part 3",
+      "publishedBand": 6,
+      "kahoyoRun1": 6,
+      "kahoyoRun2": 6
+    },
+    {
+      "id": 3,
+      "source": "IELTS official sample",
+      "sourceUrl": "https://ielts.org/organisations/ielts-for-organisations/understanding-ielts-scoring/resources-for-setting-your-ielts-scores",
+      "part": "Part 2",
+      "publishedBand": 6.5,
+      "kahoyoRun1": 6.5,
+      "kahoyoRun2": 6
+    },
+    {
+      "id": 4,
+      "source": "IELTS official sample",
+      "sourceUrl": "https://ielts.org/organisations/ielts-for-organisations/understanding-ielts-scoring/resources-for-setting-your-ielts-scores",
+      "part": "Part 3",
+      "publishedBand": 7,
+      "kahoyoRun1": 7,
+      "kahoyoRun2": 7.5
+    },
+    {
+      "id": 5,
+      "source": "examiner's published sample",
+      "sourceUrl": "https://ielts-blog.com/?p=21883",
+      "part": "Full test",
+      "publishedBand": 7.5,
+      "kahoyoRun1": 7,
+      "kahoyoRun2": 7
+    },
+    {
+      "id": 6,
+      "source": "IELTS official sample",
+      "sourceUrl": "https://ielts.org/organisations/ielts-for-organisations/understanding-ielts-scoring/resources-for-setting-your-ielts-scores",
+      "part": "Part 3",
+      "publishedBand": 7.5,
+      "kahoyoRun1": 7,
+      "kahoyoRun2": 7
+    },
+    {
+      "id": 7,
+      "source": "IELTS official sample",
+      "sourceUrl": "https://ielts.org/organisations/ielts-for-organisations/understanding-ielts-scoring/resources-for-setting-your-ielts-scores",
+      "part": "Part 3",
+      "publishedBand": 8,
+      "kahoyoRun1": 7.5,
+      "kahoyoRun2": 7.5
+    },
+    {
+      "id": 8,
+      "source": "examiner's published sample",
+      "sourceUrl": "https://www.ielts-blog.com/ielts-preparation-tips/speaking-tips/ielts-speaking-test-1-with-examiners-commentary/",
+      "part": "Full test",
+      "publishedBand": 8,
+      "kahoyoRun1": 8,
+      "kahoyoRun2": 8
+    },
+    {
+      "id": 9,
+      "source": "IELTS official sample",
+      "sourceUrl": "https://ielts.org/organisations/ielts-for-organisations/understanding-ielts-scoring/resources-for-setting-your-ielts-scores",
+      "part": "Part 3",
+      "publishedBand": 8.5,
+      "kahoyoRun1": 9,
+      "kahoyoRun2": 9
+    }
+  ]
+}
